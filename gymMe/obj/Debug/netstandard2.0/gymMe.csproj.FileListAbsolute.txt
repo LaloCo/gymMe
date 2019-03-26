@@ -1,0 +1,17 @@
+/Users/richardlove/Projects/gymMe/gymMe/bin/Debug/netstandard2.0/gymMe.deps.json
+/Users/richardlove/Projects/gymMe/gymMe/bin/Debug/netstandard2.0/gymMe.dll
+/Users/richardlove/Projects/gymMe/gymMe/bin/Debug/netstandard2.0/gymMe.pdb
+/Users/richardlove/Projects/gymMe/gymMe/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/richardlove/Projects/gymMe/gymMe/obj/Debug/netstandard2.0/HistoryPage.xaml.g.cs
+/Users/richardlove/Projects/gymMe/gymMe/obj/Debug/netstandard2.0/HomePage.xaml.g.cs
+/Users/richardlove/Projects/gymMe/gymMe/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/richardlove/Projects/gymMe/gymMe/obj/Debug/netstandard2.0/MapPage.xaml.g.cs
+/Users/richardlove/Projects/gymMe/gymMe/obj/Debug/netstandard2.0/NewGymPage.xaml.g.cs
+/Users/richardlove/Projects/gymMe/gymMe/obj/Debug/netstandard2.0/PostDetailPage.xaml.g.cs
+/Users/richardlove/Projects/gymMe/gymMe/obj/Debug/netstandard2.0/ProfilePage.xaml.g.cs
+/Users/richardlove/Projects/gymMe/gymMe/obj/Debug/netstandard2.0/gymMe.csproj.CoreCompileInputs.cache
+/Users/richardlove/Projects/gymMe/gymMe/obj/Debug/netstandard2.0/gymMe.AssemblyInfoInputs.cache
+/Users/richardlove/Projects/gymMe/gymMe/obj/Debug/netstandard2.0/gymMe.AssemblyInfo.cs
+/Users/richardlove/Projects/gymMe/gymMe/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/richardlove/Projects/gymMe/gymMe/obj/Debug/netstandard2.0/gymMe.dll
+/Users/richardlove/Projects/gymMe/gymMe/obj/Debug/netstandard2.0/gymMe.pdb

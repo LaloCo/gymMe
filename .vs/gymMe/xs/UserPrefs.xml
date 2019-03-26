@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{372DD74E-857D-47D8-9216-18337DEB25B6}|Default">
+  <MonoDevelop.Ide.ItemProperties.gymMe.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C36929F0-FB33-4CE3-B3D4-C7A9B5C490FD" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="gymMe/HistoryPage.xaml.cs">
+    <Files>
+      <File FileName="gymMe/Model/Post.cs" Line="22" Column="9" />
+      <File FileName="gymMe/MapPage.xaml.cs" Line="97" Column="9" />
+      <File FileName="gymMe/NewGymPage.xaml.cs" Line="68" Column="57" />
+      <File FileName="gymMe/HistoryPage.xaml.cs" Line="24" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="gymMe" expanded="True">
+            <Node name="gymMe" expanded="True">
+              <Node name="Helpers" expanded="True" />
+              <Node name="Logic" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="HistoryPage.xaml" expanded="True">
+                <Node name="HistoryPage.xaml.cs" selected="True" />
+              </Node>
+              <Node name="MapPage.xaml" expanded="True" />
+              <Node name="NewGymPage.xaml" expanded="True" />
+            </Node>
+            <Node name="gymMe.Android" expanded="True" />
+            <Node name="gymMe.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.gymMe.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.my_device" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/richardlove/Projects/gymMe/gymMe/MapPage.xaml.cs" relfile="gymMe/MapPage.xaml.cs" line="108" column="1" />
+      <Breakpoint file="/Users/richardlove/Projects/gymMe/gymMe/MapPage.xaml.cs" relfile="gymMe/MapPage.xaml.cs" line="109" column="1" />
+      <Breakpoint file="/Users/richardlove/Projects/gymMe/gymMe/MapPage.xaml.cs" relfile="gymMe/MapPage.xaml.cs" line="110" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
