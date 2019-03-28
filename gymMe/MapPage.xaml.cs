@@ -103,7 +103,7 @@ namespace gymMe
                 try
                 {
 
-                    var position = new Xamarin.Forms.Maps.Position(post.Latitude, post.Latitude);
+                    var position = new Xamarin.Forms.Maps.Position(post.Latitude, post.Longitude);
 
                     var pin = new Xamarin.Forms.Maps.Pin()
                     {
